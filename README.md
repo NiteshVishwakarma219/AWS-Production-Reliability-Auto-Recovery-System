@@ -1,4 +1,4 @@
-# 🚀 AWS Auto-Healing Scalable Web Application
+# 🚀 AWS Production Reliability & Auto-Recovery System
 
 <div align="center">
 
@@ -164,7 +164,7 @@ screenshot/architecture.png
 # 📁 Project Structure
 
 ```bash
-aws-auto-healing-webapp/
+AWS Production Reliability & Auto-Recovery System/
 │
 ├── terraform/
 │   ├── provider.tf
